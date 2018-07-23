@@ -1,4 +1,4 @@
-"Hello", "Friends".upcase.upcase
+"Hello","Friends".upcase.upcase
 
 def crazy_strings(a,b)
 
