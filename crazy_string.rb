@@ -1,4 +1,4 @@
-# write your method here
+"Hello".upcase
 
 def crazy_strings(a,b)
 
