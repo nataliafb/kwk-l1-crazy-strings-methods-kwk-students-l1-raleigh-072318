@@ -1,5 +1,5 @@
-"Hello".upcase
+crazy_strings("Hello" , "Friends")
 
-def crazy_strings(a,b)
+def crazy_strings(a,b
 
 end
