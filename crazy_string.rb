@@ -1,4 +1,4 @@
-crazy_strings("Hello" , "Friends")
+"Hello".reversed.upcase
 
 def crazy_strings(a,b
 
