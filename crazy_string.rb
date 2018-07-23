@@ -1,5 +1,5 @@
-# write your method here
+`crazy_strings("Hello","Friends").upcase.reverse
 
-def crazy_strings(a,b)
+def crazy_strings("Hello","Friends")
 
 end
